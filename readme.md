@@ -26,3 +26,6 @@ I have started the keeppoll automation on GitHub. And I **want your help**.
 | **Neutral** | SQL    | C          | R       |
 | **Evil**    | Java   | JavaScript | PHP     |
 
+#
+![alt text](https://github.com/yuchitoto/student-1155110447/blob/master/CSCI3250%20proj%20mst%202%20git1.png)
+![alt text](https://github.com/yuchitoto/student-1155110447/blob/master/CSCI3250%20proj%20mst%202.png)
